@@ -21,9 +21,16 @@ git branch -M main
 git push -u origin main
 git push --force origin master
 
----------firebase---------
-firebase init
-firebase deploy
+---------Firebase-----------
+Instalar node.js
+Instalar CLI de Firebase
+	npm install -g firebase-tools
+
+Inicializar tu proyecto
+	firebase login	(logout)
+	firebase init
+Desplegar en Firebase Hosting
+	firebase deploy
 
 
 COMANDOS BASICOS 
