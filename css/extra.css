@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family:'Open Sans', sans-serif;
+}
+
+.Century {
+	font-family: 'Century Gothic'; 
+	font-style: italic;
+}
+
+.CenturyB {
+	font-family: 'Century Gothic'; 
+	font-style: normal;
+}
+
+.Fuente2 {
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" ; 
+	font-style: normal;
+}
+
+.fondoAzul {
+	background-color: aqua;
+}
+
+.fondoGris {
+	background-color:#E3DFDC;
+}
+
+footer {
+	padding-top: 10px;
+	background: #6C757D;
+}
+
+footer p {
+	margin-top: 5px;
+	color: white;
+	font-family: 'Century Gothic'; 
+	font-style: italic;
+}
