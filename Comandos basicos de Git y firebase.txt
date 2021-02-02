@@ -3,6 +3,8 @@ cd nombrecarpeta vamos a la carpeta que quiero de git
 cd /letra_del_disco vamos a otra direccion
 ls miro lo que hay en esa direccion
 
+cd /D/desktop/Proyecto-WEB-CAP
+
 ---------create a new repository on the command line------
 echo "# Proyecto_WEB_CAP" >> README.md
 git init
@@ -17,6 +19,11 @@ git push -u origin main
 git remote add origin https://github.com/AlexanderEM-git/Proyecto_WEB_CAP.git
 git branch -M main
 git push -u origin main
+git push --force origin master
+
+---------firebase---------
+firebase init
+firebase deploy
 
 
 COMANDOS BASICOS 
