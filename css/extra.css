@@ -2,23 +2,25 @@
 /* CSS Document */
 
 body{
-	font-family:'Open Sans', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 
-.Century {
-	font-family: 'Century Gothic'; 
+.titulo {
+    font-family: 'Roboto Condensed';
+    font-style: italic;
+}
+
+.textos {
+	font-family: 'Open Sans', sans-serif; 
+	font-style: normal;
+}
+
+.textos_italica {
+	font-family: 'Open Sans', sans-serif; 
 	font-style: italic;
+	font: lighter;
 }
 
-.CenturyB {
-	font-family: 'Century Gothic'; 
-	font-style: normal;
-}
-
-.Fuente2 {
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif" ; 
-	font-style: normal;
-}
 
 .fondoAzul {
 	background-color: aqua;
@@ -36,6 +38,6 @@ footer {
 footer p {
 	margin-top: 5px;
 	color: white;
-	font-family: 'Century Gothic'; 
+	font-family: 'Roboto Condensed'; 
 	font-style: italic;
 }
