@@ -1,0 +1,13 @@
+# Group 1
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+
+#Bloquear todas las imágenes que haya en tu sitio para que no aparezcan en Google Imágenes
+
+User-agent: Googlebot-Image
+Disallow: /
+
+
+
+Sitemap: https://casamorypoder.com/sitemap.xml
