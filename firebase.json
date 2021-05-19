@@ -12,5 +12,7 @@
         "destination": "/index.html"
       }
     ]
+    // Drops `.html` from uploaded URLs, elimina de las urls .html
+    "cleanUrls": true
   }
 }
